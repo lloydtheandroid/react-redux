@@ -10,3 +10,5 @@ Run "npm install" in the extracted folder
 Run "npm start" to view the project
 
 ![Redux Flow Chart](https://github.com/lloydtheandroid/react-redux/blob/master/ReduxFlow.PNG "Redux Flow Chart")
+
+![Redux Middleware](https://github.com/lloydtheandroid/react-redux/blob/master/ReduxMiddlewareAsync.PNG "Redux Flow Chart")
